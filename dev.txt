@@ -1,2 +1,5 @@
 This is dev file. 
 Changes made by Main
+Changes made by dev, 
+New feature added 
+Login, SignUp
